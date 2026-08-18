@@ -171,8 +171,7 @@ The database named Retail Sales Dataset, available on Kaggle, is composed of 1,0
 ###### Dashboard Overview
 
 
-
-!\[Retail Sales Dashboard](images/Retail Sales Overview.png)
+![Retail Sales Dashboard](images/Retail Sales Overview.png)
 
 
 
@@ -180,7 +179,7 @@ The database named Retail Sales Dataset, available on Kaggle, is composed of 1,0
 
 
 
-!\[Power BI Data Model](images/Model.png)
+![Power BI Data Model](images/Model.png)
 
 
 
@@ -188,7 +187,7 @@ The database named Retail Sales Dataset, available on Kaggle, is composed of 1,0
 
 
 
-!\[Interactive Dashboard](images/Retail Sales Overview - Interaction.png)
+![Interactive Dashboard](images/Retail Sales Overview - Interaction.png)
 
 
 
